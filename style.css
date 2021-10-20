@@ -1,0 +1,33 @@
+#header{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    display: flex;
+    height: 100px;
+    align-items: center;
+
+}
+
+#mainContent{
+background-color:rgb(219, 231, 241);
+height: 300px;
+padding: 10px;
+}
+#navigation{
+    height: 300px;
+    width: 20%;
+    padding: 10px;
+}
+.navItem{
+    background-color: rgb(39, 122, 199);
+    padding: 20px;
+}
+
+#Content{
+    color: rgb(146, 50, 50);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
